@@ -12,51 +12,51 @@ Interesting labs, homeworks and reviews I did during the MVA (Mathématiques, Vi
     <tbody>
         <!-- Convex Optimization -->
         <tr>
-            <td rowspan=1><a href="">Convex Optimization</a></td>
-            <td><a href="">LASSO</a></td>
+            <td rowspan=1><a href="https://github.com/mathisemb/MVA/tree/main/convex_optimization">Convex Optimization</a></td>
+            <td><a href="https://github.com/mathisemb/MVA/blob/main/convex_optimization/LASSO_HW3.ipynb">LASSO</a></td>
         </tr>
         <!-- ALTEGRAD -->
         <tr>
-            <td rowspan=7><a href="">ALTEGRAD</a></td>
-            <td><a href="">Lab1</a></td>
+            <td rowspan=7><a href="https://github.com/mathisemb/MVA/tree/main/altegrad">ALTEGRAD</a></td>
+            <td><a href="https://github.com/mathisemb/MVA/tree/main/altegrad/lab1">Lab1</a></td>
         </tr>
         <tr>
-            <td><a href="">Lab2</a></td>
+            <td><a href="https://github.com/mathisemb/MVA/tree/main/altegrad/lab2">Lab2</a></td>
         </tr>
         <tr>
-            <td><a href="">Lab3</a></td>
+            <td><a href="https://github.com/mathisemb/MVA/tree/main/altegrad/lab3">Lab3</a></td>
         </tr>
         <tr>
-            <td><a href="">Lab4</a></td>
+            <td><a href="https://github.com/mathisemb/MVA/tree/main/altegrad/lab4">Lab4</a></td>
         </tr>
         <tr>
-            <td><a href="">Lab5</a></td>
+            <td><a href="https://github.com/mathisemb/MVA/tree/main/altegrad/lab5">Lab5</a></td>
         </tr>
         <tr>
-            <td><a href="">Lab6</a></td>
+            <td><a href="https://github.com/mathisemb/MVA/tree/main/altegrad/lab6">Lab6</a></td>
         </tr>
         <tr>
-            <td><a href="">Lab7</a></td>
+            <td><a href="https://github.com/mathisemb/MVA/tree/main/altegrad/lab7">Lab7</a></td>
         </tr>
         <!--Probabilistic Graphical Models -->
         <tr>
-            <td rowspan=1><a href="">Probabilistic Graphical Models</a></td>
-            <td><a href="">"Deep Bayes" review</a></td>
+            <td rowspan=1><a href="https://github.com/mathisemb/MVA/tree/main/probabilistic_graphical_models">Probabilistic Graphical Models</a></td>
+            <td><a href="https://github.com/mathisemb/MVA/blob/main/probabilistic_graphical_models/Deep_Bayes_Review.pdf">"Deep Bayes" review</a></td>
         </tr>
         <!-- Topological Data Analysis -->
         <tr>
-            <td rowspan=1><a href="">Topological Data Analysis</a></td>
-            <td><a href="">"Principal Geodesic Analysis of Merge Trees" presentation</a></td>
+            <td rowspan=1><a href="https://github.com/mathisemb/MVA/tree/main/topological_data_analysis">Topological Data Analysis</a></td>
+            <td><a href="https://github.com/mathisemb/MVA/blob/main/topological_data_analysis/PGA_Presentation.pdf">"Principal Geodesic Analysis of Merge Trees" presentation</a></td>
         </tr>
         <!-- Geometric Data Analysis -->
         <tr>
-            <td rowspan=1><a href="">Geometric Data Analysis</a></td>
-            <td><a href="">"Repulsive Curves" review</a></td>
+            <td rowspan=1><a href="https://github.com/mathisemb/MVA/tree/main/geometric_data_analysis">Geometric Data Analysis</a></td>
+            <td><a href="https://github.com/mathisemb/MVA/blob/main/geometric_data_analysis/Repulsive_Curves_Review.pdf">"Repulsive Curves" review</a></td>
         </tr>
         <!-- Turing Seminar (introduction to AGI Safety) -->
         <tr>
-            <td rowspan=1><a href="">Turing Seminar (introduction to AGI Safety)</a></td>
-            <td><a href="">Summary of AI governance regulations</a></td>
+            <td rowspan=1><a href="https://github.com/mathisemb/MVA/blob/main/turing_seminar">Turing Seminar (introduction to AGI Safety)</a></td>
+            <td><a href="https://github.com/mathisemb/MVA/blob/main/turing_seminar/Summary_AI_governance_regulations.pdf">Summary of AI governance regulations</a></td>
         </tr>
     </tbody>
 </table>
