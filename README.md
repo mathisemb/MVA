@@ -18,25 +18,25 @@ Interesting labs, homeworks and reviews I did during the MVA (Mathématiques, Vi
         <!-- ALTEGRAD -->
         <tr>
             <td rowspan=7><a href="https://github.com/mathisemb/MVA/tree/main/altegrad">ALTEGRAD</a></td>
-            <td><a href="https://github.com/mathisemb/MVA/tree/main/altegrad/lab1">Lab1</a></td>
+            <td><a href="https://github.com/mathisemb/MVA/tree/main/altegrad/lab1_ Neural_Machine_Translation">lab1_ Neural_Machine_Translation</a></td>
         </tr>
         <tr>
-            <td><a href="https://github.com/mathisemb/MVA/tree/main/altegrad/lab2">Lab2</a></td>
+            <td><a href="https://github.com/mathisemb/MVA/tree/main/altegrad/lab2_Graph_Mining">lab2_Graph_Mining</a></td>
         </tr>
         <tr>
-            <td><a href="https://github.com/mathisemb/MVA/tree/main/altegrad/lab3">Lab3</a></td>
+            <td><a href="https://github.com/mathisemb/MVA/tree/main/altegrad/lab3_ Transfer_Learning">lab3_ Transfer_Learning</a></td>
         </tr>
         <tr>
-            <td><a href="https://github.com/mathisemb/MVA/tree/main/altegrad/lab4">Lab4</a></td>
+            <td><a href="https://github.com/mathisemb/MVA/tree/main/altegrad/lab4_ NLP_Frameworks">lab4_ NLP_Frameworks</a></td>
         </tr>
         <tr>
-            <td><a href="https://github.com/mathisemb/MVA/tree/main/altegrad/lab5">Lab5</a></td>
+            <td><a href="https://github.com/mathisemb/MVA/tree/main/altegrad/lab5_DL_for_Graphs">lab5_DL_for_Graphs</a></td>
         </tr>
         <tr>
-            <td><a href="https://github.com/mathisemb/MVA/tree/main/altegrad/lab6">Lab6</a></td>
+            <td><a href="https://github.com/mathisemb/MVA/tree/main/altegrad/lab6_DL_for_Graphs">lab6_DL_for_Graphs</a></td>
         </tr>
         <tr>
-            <td><a href="https://github.com/mathisemb/MVA/tree/main/altegrad/lab7">Lab7</a></td>
+            <td><a href="https://github.com/mathisemb/MVA/tree/main/altegrad/lab7_Learning_on_Sets_and_Graph_Generative_Models">lab7_Learning_on_Sets_and_Graph_Generative_Models</a></td>
         </tr>
         <!--Probabilistic Graphical Models -->
         <tr>
@@ -75,19 +75,24 @@ Interesting labs, homeworks and reviews I did during the MVA (Mathématiques, Vi
             <td rowspan=1><a href="">Reinforcement learning</a></td>
             <td>...</td>
         </tr>
-        <!-- Sequential learning -->
+        <!-- Modèles génératifs pour l’image -->
         <tr>
-            <td rowspan=1><a href="">Sequential learning</a></td>
+            <td rowspan=1><a href="">Modèles génératifs pour l’image</a></td>
             <td>...</td>
         </tr>
-        <!-- Large Random Matrices -->
+        <!-- Apprentissage et génération par échantillonnage de probabilités -->
         <tr>
-            <td rowspan=1><a href="">Large Random Matrices</a></td>
+            <td rowspan=1><a href="">Apprentissage et génération par échantillonnage de probabilités</a></td>
             <td>...</td>
         </tr>
-        <!-- Generative models for images -->
+        <!-- Algorithms for speech and natural language processing -->
         <tr>
-            <td rowspan=1><a href="">Generative models for images</a></td>
+            <td rowspan=1><a href="">Algorithms for speech and natural language processing</a></td>
+            <td>...</td>
+        </tr>
+        <!-- Deep Learning in Practice -->
+        <tr>
+            <td rowspan=1><a href="">Deep Learning in Practice</a></td>
             <td>...</td>
         </tr>
     </tbody>
